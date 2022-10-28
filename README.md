@@ -1,6 +1,6 @@
 Hi people 👋, I'm Matias 💻👨‍💻
 
-```PHP
+I'm PHP backend developer
   $matias = [
   "pronouns"=> "he | him",
   "code"=> ["Javascript", "PHP", "HTML5", "CSS3", "Java", "SQL"],
@@ -9,7 +9,5 @@ Hi people 👋, I'm Matias 💻👨‍💻
 ];
 
 
-You can find me 🌏
-- [LinkedIn](www.linkedin.com/in/matiasjesusalicata)
 
 
