@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```PHP
+  $matias = (
+  "pronouns"=> "he | him",
+  "code"=> [Javascript, PHP, HTML5, CSS3, Java],
+  "tools"=> [Node, LARAVEL, Styled-Components],
+ challenge: "I am doing the HackerRank challenge focused on PHP, SQL AND JAVA"
+)
 <!--
 **MAlicata/MAlicata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
