@@ -1,12 +1,10 @@
-Hi people 👋, I'm Matias 💻👨‍💻
+Hi people 👋, I'm Matias Alicata💻👨‍💻
 
 I'm PHP backend developer
 ```
   $matias = [
-  "pronouns"=> "he | him",
-  "code"=> ["Javascript", "PHP", "HTML5", "CSS3", "Java", "SQL"],
-  "tools"=> ["Node", "LARAVEL", "Bootstrap", "Postgresql"]
-  "challenge"=> "I am doing the HackerRank challenge focused on PHP, SQL AND JAVA"
+  "code"=> ["Javascript", "PHP", "HTML5", "CSS3", "C#", "SQL"],
+  "challenge"=> "I am doing the HackerRank challenge focused on PHP, SQL AND C#"
 ];
 
 
