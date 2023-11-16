@@ -1,6 +1,6 @@
 Hi people 👋, I'm Matias Alicata💻👨‍💻
 
-I'm PHP backend developer
+I'm backend developer
 ```
   $matias = [
   "code"=> ["Javascript", "PHP", "HTML5", "CSS3", "C#", "SQL"],
